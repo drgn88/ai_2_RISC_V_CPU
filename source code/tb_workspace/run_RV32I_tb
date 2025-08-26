@@ -1,0 +1,2 @@
+vcs -sverilog -full64 -kdb -debug_access+all+reverse ../src/*sv ../TB/tb_dut.sv
+./simv -verdi &
