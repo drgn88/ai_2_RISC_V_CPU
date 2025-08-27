@@ -148,6 +148,12 @@
 ---
 - RAM에서 읽어온 Data(Read Data)를 Register File에 저장함
 
+## Control Logic FSM
+
+|                     FSM                      |
+| :------------------------------------------: |
+| <img src="./img/리드미/Multi_Cycle_FSM.png"> |
+
 # Simulation Verification
 
 ## 1. R-Type
